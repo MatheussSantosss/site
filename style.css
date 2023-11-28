@@ -1,0 +1,55 @@
+div.titulo:hover{
+    text-shadow: rgb(228, 221, 221) -3px 0;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 3px;
+ 
+
+}
+
+
+body{
+    background-image:url(imagens/fundo.png)
+    
+}
+h1{
+    text-align: center;
+    
+    
+}
+p{
+    text-align: center;
+}
+img{
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+h2{
+    text-align: center;
+}
+video{
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+   iframe{
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+   }
+
+div.player{
+    margin: auto;
+background-color: black;
+padding: 10px;
+min-width: 250px;
+max-width: 313px;
+border-radius: 10px;
+}
+   
+
+        
+        
+    
